@@ -1,0 +1,42 @@
+
+.navbar{
+    
+    font-size:1.5rem;
+    
+}
+
+
+.carousel{
+    height: 85vh;
+    overflow: hidden;
+}
+
+
+.w-100 {
+  width: 100% !important;
+  height: 85vh;
+}
+
+
+
+
+.product img{
+    
+    height: 40vh;
+    width: 60vh;
+}
+
+.certification img{
+    width: 60vh;
+    height: 85vh;
+}
+
+h6{
+    text-align: center;
+}
+
+
+.homePage img{
+    width: 100%;
+    height: auto;
+}
